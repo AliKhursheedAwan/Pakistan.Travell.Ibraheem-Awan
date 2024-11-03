@@ -122,7 +122,8 @@ body header nav, .navbar{{
    
         position: relative;
         height: 95vh;
-        background: linear-gradient(rgba(0,0,0,0.4) , rgba(0,0,0,0.4)) ,url('./img/header.lnk');
+/*          background: linear-gradient(rgba(0,0,0,0.4) , rgba(0,0,0,0.4)) ,url('./img/header.lnk');
+        
         background-position: center;
         background-size:cover ;
         background-repeat: no-repeat;
