@@ -112,7 +112,7 @@ h1, h2, h3{
         background-color:#fff;
         border-radius: 1.5em;
 }
-header{
+body header nav, .navbar{{
          /* background: url(./img/image-three-soldiers-shooting-computer-260nw-1767693677\ -\ Shortcut.lnk); */
          height: 98vh;
          width: 100%;
